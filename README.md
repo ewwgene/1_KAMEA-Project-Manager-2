@@ -1,11 +1,12 @@
 
+# [ewwgene.github.io](https://ewwgene.github.io/)
 ## TV_Set_01. _SUMMER-2014.05._
-![TV_Set_01](/100.jpg)<a href="https://ewwgene.github.io/TV_Set_01/102.jpg"><img src="https://ewwgene.github.io/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/TV_Set_01/103.jpg"><img src="https://ewwgene.github.io/TV_Set_01/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/TV_Set_01/111.jpg"><img src="https://ewwgene.github.io/TV_Set_01/111.jpg" height="100"></a> 
+![TV_Set_01](/100.jpg)<a href="https://ewwgene.github.io/TV_Set_01/102.jpg"><img src="https://ewwgene.github.io/TV_Set_01/102.jpg" height="75"></a> <a href="https://ewwgene.github.io/TV_Set_01/103.jpg"><img src="https://ewwgene.github.io/TV_Set_01/103.jpg" height="75"></a> <a href="https://ewwgene.github.io/TV_Set_01/111.jpg"><img src="https://ewwgene.github.io/TV_Set_01/111.jpg" height="75"></a> 
 <br>
 **Overview**
 
 <br><br>
-<a href="https://ewwgene.github.io/TV_Set_01/Making/001.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/005.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/005.jpg" height="100"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/006.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/006.jpg" height="100"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/008.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/008.jpg" height="100"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/009.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/009.jpg" height="100"></a> <br>
+<a href="https://ewwgene.github.io/TV_Set_01/Making/001.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/001.jpg" height="75"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/005.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/005.jpg" height="75"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/006.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/006.jpg" height="75"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/008.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/008.jpg" height="75"></a> <a href="https://ewwgene.github.io/TV_Set_01/Making/009.jpg"><img src="https://ewwgene.github.io/TV_Set_01/Making/009.jpg" height="75"></a> <br>
 **Making**
 
 |
@@ -13,6 +14,7 @@
 /
 _`IDRAW`_ 
 <br>
-<a href="https://ewwgene.github.io/TV_Set_01/300.jpg"><img src="https://ewwgene.github.io/TV_Set_01/300.jpg" height="100"></a> 
+
+<a href="https://ewwgene.github.io/TV_Set_01/300.jpg"><img src="https://ewwgene.github.io/TV_Set_01/300.jpg" height="75"></a> 
 <br>
 
