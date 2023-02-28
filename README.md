@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) TV_Set_01
 
-[![TV_Set_01](/100.jpg)](https://ewwgene.github.io/TV_Set_01/Carousel)<a id="102" href="https://ewwgene.github.io/TV_Set_01/Carousel/#102"><img src="https://ewwgene.github.io/TV_Set_01/102.jpg" height="66"></a> <a id="103" href="https://ewwgene.github.io/TV_Set_01/Carousel/#103"><img src="https://ewwgene.github.io/TV_Set_01/103.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/TV_Set_01/Carousel/#111"><img src="https://ewwgene.github.io/TV_Set_01/111.jpg" height="66"></a> <a id="text">&#160;</a>
+[![TV_Set_01](/100.jpg)](https://ewwgene.github.io/TV_Set_01/Carousel)<br> <a id="102" href="https://ewwgene.github.io/TV_Set_01/Carousel/#102"><img src="https://ewwgene.github.io/TV_Set_01/102.jpg" height="66"></a> <a id="103" href="https://ewwgene.github.io/TV_Set_01/Carousel/#103"><img src="https://ewwgene.github.io/TV_Set_01/103.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/TV_Set_01/Carousel/#111"><img src="https://ewwgene.github.io/TV_Set_01/111.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="300" href="https://ewwgene.github.io/TV_Set_01/Carousel/#300"><img src="https://ewwgene.github.io/TV_Set_01/300.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
